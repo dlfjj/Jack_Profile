@@ -61,8 +61,7 @@
                                         <div class="col-sm-4"><strong class="text-uppercase">Address:</strong></div>
                                         <div class="col-sm-8">140, City Center, New York, U.S.A</div>
                                     </div>
-                                    <div class="row mt-3">
-                                        <div class="col-sm-4"><strong class="text-uppercase">Language:</strong></div>
+                                    <div class="row mt-3"> m-4"><strong class="text-uppercase">Language:</strong></div>
                                         <div class="col-sm-8">English, German, French</div>
                                     </div>
                                 </div>
@@ -265,7 +264,7 @@
                     <div class="h4 text-center mb-4 title">Work Experience</div>
                     <div class="card">
                         <div class="row">
-                            <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500" style="background-color: #fde300">
+                            <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500" style="background-color: #62c993">
                                 <div class="card-body cc-experience-header">
                                     <p>March 2018 - Present</p>
                                     <div class="h5">American Dunnage Inc.</div>
@@ -281,7 +280,7 @@
                     </div>
                     <div class="card">
                         <div class="row">
-                            <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500" style="background-color: #fde300">
+                            <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500" style="background-color: #62c993">
                                 <div class="card-body cc-experience-header">
                                     <p>April 2017 - January 2018</p>
                                     <div class="h5">Unshackled Venture</div>
@@ -297,7 +296,7 @@
                     </div>
                     <div class="card">
                         <div class="row">
-                            <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500" style="background-color: #fde300">
+                            <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500" style="background-color: #62c993">
                                 <div class="card-body cc-experience-header">
                                     <p>April 2016 - August 2016</p>
                                     <div class="h5">天源迪科信息技术有限公司</div>
@@ -318,7 +317,7 @@
                     <div class="h4 text-center mb-4 title">Education</div>
                     <div class="card">
                         <div class="row">
-                            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                            <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500" style="background-color: #62c993;">
                                 <div class="card-body cc-education-header">
                                     <p>2013 - 2017</p>
                                     <div class="h5">Bachelor's Degree</div>
@@ -335,7 +334,7 @@
                     </div>
                     <div class="card">
                         <div class="row">
-                            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+                            <div class="col-md-3" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500" style="background-color: #62c993;">
                                 <div class="card-body cc-education-header">
                                     <p>2007 - 2009</p>
                                     <div class="h5">High School</div>
